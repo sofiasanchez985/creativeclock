@@ -1,2 +1,2 @@
-# creativeclock
-a "clock" in p5.js
+# creative clock
+a "clock" in p5.js !
