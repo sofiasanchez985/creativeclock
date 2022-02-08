@@ -2,7 +2,7 @@ var circlePosX = []
 var circlePosY = []
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   
   for(var i = 0; i < 60; i++){
     circlePosX[i] = random(0, width)
